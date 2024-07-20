@@ -1,16 +1,16 @@
-### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/salehamuzammil/">Saleha</a>, an AI/ML enthusiast 👨‍💻</div>  
+### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/nadia-saeed-phd-408980245">Nadia</a>, an AI/ML/NLP enthusiast 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Federated Learning, Genrative AI , and Medical Informatics. 
+- 🔭 I’m working on Crispr-Cas9, RAG, AI Agents, Genrative AI, and Medical Informatics. 
   
 
-- 🌱 I’m currently learning all about Deep Learning
+- 🌱 I’m currently learning all about Deep Generative AI Learning
   
 
-- 👯 I’m looking to collaborate on any AI/ML related projects  
+- 👯 I’m looking to collaborate on any AI/ML/NLP related projects  
   
 
-- ⚡ Fun fact: My music taste is horrible  
+- ⚡ Fun fact: Looking for AI TEAM  
   
 
 <br/>  
@@ -49,18 +49,12 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/saleha-muzammil" target="_blank">
+<a href="https://github.com/NadiaSaeed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/MuzammilSaleha" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/salehamuzammil" target="_blank">
+<a href="https://linkedin.com/in/nadia-saeed-phd-408980245" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/salehamuzammill" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
